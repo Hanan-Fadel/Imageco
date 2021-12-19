@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ImageCo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_to_text_fragment">Hello! Capture or choose an image from gallery to perform Image to text Conversion (OCR)</string>
+    <string name="image_to_speech_fragment">Hello fragment2</string>
+    <string name="image_compressor_fragment">Hello fragment3</string>
+    <string name="image_resize_fragment">Hello fragment4</string>
+</resources>
